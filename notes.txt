@@ -9,4 +9,7 @@ Recipe App
 Timeline - 
 
 - Spent 1st part of morning 8 - 9 researching on youtube various recipe apps using both Firebase and Rails with React before thinking I would like to use Rails with PostgreSQL
-- 9 -   :  Going thru how I want to set up the project i.e. CRUD, parent and child components, etc
+- 9 - 10:30 :  Going thru how I want to set up the project i.e. CRUD, parent and child components, etc.  Found myself starting in on the project and working on the homepage.
+              : Had some issues with my webpacker not being installed and fixed some bugs to get homepage to render.
+10:30 - :  Been kind of on a roll putting this together!  
+
