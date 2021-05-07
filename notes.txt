@@ -2,8 +2,14 @@ Recipe App
 
 - Full CRUD functionality
 - Utilize React/Rails/PostgreSQL
-- Search functionality
-- Devise GEM for Authentication/Authorization
+- Search functionality(for recipes)
+- Devise/bcrypt(?) GEM for Authentication/Authorization??
+
+
+stretch goal:
+- Search functionality for tags, ingredients.
+- implement react native for mobile functionality
+- 
 
 
 Timeline - 
@@ -11,5 +17,7 @@ Timeline -
 - Spent 1st part of morning 8 - 9 researching on youtube various recipe apps using both Firebase and Rails with React before thinking I would like to use Rails with PostgreSQL
 - 9 - 10:30 :  Going thru how I want to set up the project i.e. CRUD, parent and child components, etc.  Found myself starting in on the project and working on the homepage.
               : Had some issues with my webpacker not being installed and fixed some bugs to get homepage to render.
-10:30 - :  Been kind of on a roll putting this together!  
+10:30 -2pm:  Been kind of on a roll putting this together!  found a great resource for styling of recipe pages
+2pm -  :  i am now stuck and will need to do some more research on the creation of recipes. I think i may have spent most of my mental energy this morning with a resource i found
+4pm - : still watching tutorials and videos i.e. adding recipes, Authorization etc.  i think my brain may be shutting down;)
 
