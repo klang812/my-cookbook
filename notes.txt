@@ -13,11 +13,31 @@ stretch goal:
 
 
 Timeline - 
-
+5/7/21
 - Spent 1st part of morning 8 - 9 researching on youtube various recipe apps using both Firebase and Rails with React before thinking I would like to use Rails with PostgreSQL
 - 9 - 10:30 :  Going thru how I want to set up the project i.e. CRUD, parent and child components, etc.  Found myself starting in on the project and working on the homepage.
               : Had some issues with my webpacker not being installed and fixed some bugs to get homepage to render.
 10:30 -2pm:  Been kind of on a roll putting this together!  found a great resource for styling of recipe pages
 2pm -  :  i am now stuck and will need to do some more research on the creation of recipes. I think i may have spent most of my mental energy this morning with a resource i found
 4pm - : still watching tutorials and videos i.e. adding recipes, Authorization etc.  i think my brain may be shutting down;)
+
+5/14/21
+8 -   : have new recipe working but then added edit recipe and it wont render the edit form(but it routes to the right page) and the save button no longer works.  Pretty sure it has to do with the shared recipe form i made.
+10am - :  Still having routing issues with my create and edit recipe components
+1pm - : still working thru routing issues with edit and create, but in the meantime added admin for devise.  slow going......lots of tutorials!
+5pm : still have issues with create and edit, not sure what is happening.....  been a tutorial kind of day!
+
+5/17/21
+8 - : still having issues with the edit feature but i did fix the new recipe functionality
+1pm - 1:30pm - interview with plusQA
+1:30 : continue working on getting edit functionality working....
+3pm: after continual research on how to get full CRUD I have decided to take a different approach I have found which is with 'form components' will reference article in my README
+3pm - 5pm: work on cover letters for internships
+
+5/18/21
+8 - :start in on new approach with form components fingers crossed!!
+10:30 - : interview with Foureyes for Data Analyst Position
+11am : edit functionality is working but the buttons and styling is off 
+
+
 
