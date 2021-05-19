@@ -88,15 +88,13 @@ const Recipe = (props) => {
               {ingredientList}
             </ul>
           </div>
-          <div className='col-sm-12 col-lg-3'>
-            <ul className='list-group'>
-              <h5 className='mb-2'>Instructions</h5>
+          <div className='col-sm-12 col-lg-3' style={{whiteSpace: "pre-line"}}>
+            <h5 className='mb-2'>Instructions</h5>
               <div 
                 dangerouslySetInnerHTML={{
                   __html: `${recipeInstructions}`
                 }}
               />
-            </ul>
           </div>
           <div className='col-sm-12 col-lg-2'>
             <Link
