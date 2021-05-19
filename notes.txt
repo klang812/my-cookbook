@@ -2,14 +2,14 @@ Recipe App
 
 - Full CRUD functionality
 - Utilize React/Rails/PostgreSQL
-- Search functionality(for recipes)
-- Devise/bcrypt(?) GEM for Authentication/Authorization??
+- 
+- Devise GEM for Authentication/Authorization
 
 
 stretch goal:
 - Search functionality for tags, ingredients.
 - implement react native for mobile functionality
-- 
+- Search functionality(for recipes)
 
 
 Timeline - 
@@ -38,6 +38,16 @@ Timeline -
 8 - :start in on new approach with form components fingers crossed!!
 10:30 - : interview with Foureyes for Data Analyst Position
 11am : edit functionality is working but the buttons and styling is off 
+3pm : at long last!!! full CRUD functionality!!! but now my buttons are not right and some styling is off!!
+4:30 : working on internship cover letters and resumes
+
+5/19/21
+8 - 10am :working on fixing styling issues and buttons and fixed the styling issues with recipes page 
+10 - : finished up sending my internship emails.
+11 - : working on getting images to my recipes
+3pm - : images still not working moved on to adding recipes to app.  something i did not think about is listing the instructions.  as of now the instructions are jumbled together and not listed in an orderly fashion
+
+
 
 
 
