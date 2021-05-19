@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import Input from '../components/Input';
 import TextArea from '../components/TextArea';
 import Button from '../components/Button';
-import { checkPropTypes } from 'prop-types';
 
 const FormContainer = (props) => {
 

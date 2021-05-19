@@ -15,17 +15,15 @@ A project made from the heart.
 * _JSX_
 * _React_
 * _SASS_
+* _PostgreSQL_
 * _git 2.30.0_
+* _Devise Gem_
 
 ---
 
 ## Description
 
 My Cookbook.  This is an application that truly comes from a good place.  I love to cook and what better way to reinforce that love than with an app that will consolidate all of my recipes that I have collected over the years.  My MVP is to create an app with full CRUD functionality incorporating React for a frontend and Rails with PostgreSQL for the backend.  
-
-## Component Diagram
-Diagram showing parent and children components and how they will be structured in relation to one another:
-<div><img src="src/img/kegComponentDiagram.png" alt="Component Diagram" width = 500 ></div>
 
 ---
 
@@ -46,6 +44,8 @@ Diagram showing parent and children components and how they will be structured i
 ---
 
 ## Known Bugs
+
+* Buttons and some styling is not working.  I believe the bootstrap is overwriting my custom CSS.
 
 ---
 
