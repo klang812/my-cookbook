@@ -31,7 +31,7 @@ My Cookbook.  This is an application that truly comes from a good place.  I love
 
 * To clone this directory, navigate in your terminal to the desired location of the project and run command `https://github.com/klang812/my-cookbook`
 * Navigate to top level of the directory with command `cd my-cookbook`
-* Run local server with command `npm run start`
+* Run local server with command `rails s`
 
 ---
 
